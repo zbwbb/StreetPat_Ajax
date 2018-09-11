@@ -1,0 +1,6 @@
+Python 分析Ajax请求
+使用正则从JS中解析详情页的数据
+将图片的二进制数据写入文件
+同时将数据保存到MongoDB数据库中
+使用多进程分发请求
+# StreetPat_Ajax
